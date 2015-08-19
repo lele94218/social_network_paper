@@ -1,0 +1,10 @@
+Abstract
+The majority of the applications of social networks recommend users to users with the same characteristics. Traditional approach to work out the characteristics simply uses the keywords in user-profile which contain address, interests, and favorite topics. However, the results are not satisfying while a great quantity of valuable information hidden in users’ post are left out.
+
+In this dissertation, we propose a new method using nature language processing tools, such as WordNet, Natural Language Toolkit, to find the characteristics hidden in users’ post, in order to recommend “the best-likely friend”. We obtain values from data, that we build based on social networking site (SNS) like Facebook, and use advanced text mining method to find the users with the same characteristics. In this way, a clustering result can be performed by hierarchical clustering algorithm. The experimental results indicate that recommending process improves significantly both in efficiency and accuracy compared to the traditional method using tf-idf.
+
+
+
+Most of the application of social networks recommend friends to the user who has same characters. Traditional approach to work out the character informations is that using keywords in user-profile that always contains addresses, interests, favorite topics. However, there still exist a problem that a great quantity of informations which users posted are missed if we only deal with profile informations.
+
+In this paper, we present our attempt towards nature laugrage processing tools, such as WordNet, Natural Language Toolkit, to work out the similarities between users to users, and we build a database based-on Sqlite3 to store messages posted on social networking site (SNS) like Facebook. We work with the data use advanced text mining method to obtain the values for similarity, and thus a clustering result can be performed by hierarchical clustering algorithm. The experimental results using as advanced methods show that clustering result improves significantly compared to classical method use tf-idf method which used to obtain the values of similarity.
