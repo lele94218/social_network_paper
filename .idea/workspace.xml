@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bba0629-5d4e-43a0-ad77-9f4d50d4a819" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_twitter_timeline/TwitterApi.py" afterPath="$PROJECT_DIR$/get_twitter_timeline/TwitterApi.py" />
     </list>
     <ignored path="for_twitter_py.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,12 +37,12 @@
       <file leaf-file-name="TwitterApi.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get_twitter_timeline/TwitterApi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.028132992">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            <state vertical-scroll-proportion="-0.31202045">
+              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
               <folding>
                 <element signature="e#240#255#0" expanded="true" />
-                <marker date="1458716341906" expanded="true" signature="957:1158" placeholder="INSERT INTO User... " />
-                <marker date="1458716341906" expanded="true" signature="2169:2287" placeholder="INSERT INTO Tweet... " />
+                <marker date="1458718019031" expanded="true" signature="951:1152" placeholder="INSERT INTO User... " />
+                <marker date="1458718019031" expanded="true" signature="2163:2281" placeholder="INSERT INTO Tweet... " />
               </folding>
             </state>
           </provider>
@@ -369,7 +369,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16066837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -436,8 +436,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#240#255#0" expanded="true" />
-            <marker date="1458716341906" expanded="true" signature="957:1158" placeholder="INSERT INTO User... " />
-            <marker date="1458716341906" expanded="true" signature="2169:2287" placeholder="INSERT INTO Tweet... " />
+            <marker date="1458718019031" expanded="true" signature="951:1152" placeholder="INSERT INTO User... " />
+            <marker date="1458718019031" expanded="true" signature="2163:2281" placeholder="INSERT INTO Tweet... " />
           </folding>
         </state>
       </provider>
@@ -456,8 +456,8 @@
           <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
             <element signature="e#240#255#0" expanded="true" />
-            <marker date="1458716341906" expanded="true" signature="957:1158" placeholder="INSERT INTO User... " />
-            <marker date="1458716341906" expanded="true" signature="2169:2287" placeholder="INSERT INTO Tweet... " />
+            <marker date="1458718019031" expanded="true" signature="951:1152" placeholder="INSERT INTO User... " />
+            <marker date="1458718019031" expanded="true" signature="2163:2281" placeholder="INSERT INTO Tweet... " />
           </folding>
         </state>
       </provider>
@@ -468,8 +468,8 @@
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="e#240#255#0" expanded="true" />
-            <marker date="1458716341906" expanded="true" signature="957:1158" placeholder="INSERT INTO User... " />
-            <marker date="1458716341906" expanded="true" signature="2169:2287" placeholder="INSERT INTO Tweet... " />
+            <marker date="1458718019031" expanded="true" signature="951:1152" placeholder="INSERT INTO User... " />
+            <marker date="1458718019031" expanded="true" signature="2163:2281" placeholder="INSERT INTO Tweet... " />
           </folding>
         </state>
       </provider>
@@ -480,8 +480,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#240#255#0" expanded="true" />
-            <marker date="1458716341906" expanded="true" signature="957:1158" placeholder="INSERT INTO User... " />
-            <marker date="1458716341906" expanded="true" signature="2169:2287" placeholder="INSERT INTO Tweet... " />
+            <marker date="1458718019031" expanded="true" signature="951:1152" placeholder="INSERT INTO User... " />
+            <marker date="1458718019031" expanded="true" signature="2163:2281" placeholder="INSERT INTO Tweet... " />
           </folding>
         </state>
       </provider>
@@ -492,8 +492,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#240#255#0" expanded="true" />
-            <marker date="1458716341906" expanded="true" signature="957:1158" placeholder="INSERT INTO User... " />
-            <marker date="1458716341906" expanded="true" signature="2169:2287" placeholder="INSERT INTO Tweet... " />
+            <marker date="1458718019031" expanded="true" signature="951:1152" placeholder="INSERT INTO User... " />
+            <marker date="1458718019031" expanded="true" signature="2163:2281" placeholder="INSERT INTO Tweet... " />
           </folding>
         </state>
       </provider>
@@ -504,8 +504,8 @@
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="e#240#255#0" expanded="true" />
-            <marker date="1458716341906" expanded="true" signature="957:1158" placeholder="INSERT INTO User... " />
-            <marker date="1458716341906" expanded="true" signature="2169:2287" placeholder="INSERT INTO Tweet... " />
+            <marker date="1458718019031" expanded="true" signature="951:1152" placeholder="INSERT INTO User... " />
+            <marker date="1458718019031" expanded="true" signature="2163:2281" placeholder="INSERT INTO Tweet... " />
           </folding>
         </state>
       </provider>
@@ -534,12 +534,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/get_twitter_timeline/TwitterApi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028132992">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state vertical-scroll-proportion="-0.31202045">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
           <folding>
             <element signature="e#240#255#0" expanded="true" />
-            <marker date="1458716341906" expanded="true" signature="957:1158" placeholder="INSERT INTO User... " />
-            <marker date="1458716341906" expanded="true" signature="2169:2287" placeholder="INSERT INTO Tweet... " />
+            <marker date="1458718019031" expanded="true" signature="951:1152" placeholder="INSERT INTO User... " />
+            <marker date="1458718019031" expanded="true" signature="2163:2281" placeholder="INSERT INTO Tweet... " />
           </folding>
         </state>
       </provider>

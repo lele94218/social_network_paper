@@ -20,7 +20,7 @@ api = twitter.Api(consumer_key=c_key,
 
 def save_user(tw_user_id=None, name=None, screen_name=None, location=None, language=None,
               description=None, profile_image_url=None, rcmd_user_ids=None, since_id=None, max_id=None):
-    db = MySQLdb.connect(user="root", passwd="19940218aA", db="firends_recommend", host="localhost",
+    db = MySQLdb.connect(user="root", passwd="1234", db="firends_recommend", host="localhost",
                          cursorclass=DictCursor)
     cursor = db.cursor()
     print tw_user_id
