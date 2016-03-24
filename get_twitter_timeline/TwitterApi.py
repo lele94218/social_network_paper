@@ -1,9 +1,9 @@
 # encoding: utf-8
 
-c_key = 'nC43UrHk0szmLyw3y7rZeduzM'
-c_secret = '1LxTR2IxVBxuEXyJio5Qy6r4JvSYBUiGvhjlrp2tYUgVBtwH4v'
-a_key = '711848614390173697-JBq404BWISFbyOZgTIr3VnxOAXFpbCa'
-a_secret = 'F3AunhAss3NefnH1icuIA0V5zO9ASynrX1TuupfjpQXL8'
+c_key = ''
+c_secret = ''
+a_key = ''
+a_secret = ''
 
 import datetime
 import traceback
