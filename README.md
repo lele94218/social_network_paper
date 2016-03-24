@@ -8,6 +8,6 @@ social_network_paper
 ============
 ## 介绍
 
-1. 使用 Twitter API 和 [python-twitter](https://github.com/bear/python-twitter) 获取用户详情和 Tweets 并导入 MySQL数据库.
+1. 使用 Twitter API 和 [python-twitter](https://github.com/bear/python-twitter) 获取用户详情和 Tweets 并导入 MySQL数据库. 现已导入 50000 条 Tweets 和 200 条用户信息.
 
 2. 之前写过 Facebook API 和 [facepy](https://github.com/jgorset/facepy) 获取 Facebook 上好友动态文本, 因数据样本太小决定添加 Twitter 数据.
