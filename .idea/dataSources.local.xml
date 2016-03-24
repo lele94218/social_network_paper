@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - firends_recommend@42.96.139.138" uuid="0d929f63-db35-42b2-9650-1a2cf4bd63aa">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>firends_recommend.*</schema-pattern>
+      <default-schemas>firends_recommend.*</default-schemas>
+    </data-source>
+  </component>
+</project>
